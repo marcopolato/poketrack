@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "description": "PokeTrack - Pokemon cards collection tracker",
+  "engines": {
+    "node": "22.21.x"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
